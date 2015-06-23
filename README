@@ -1,0 +1,12 @@
+Commands to test the code - 
+
+ruby test.rb
+
+===========================================
+
+game.rb contains the game class 
+player.rb contains the player class
+diceset.rb is the diceset class
+score.rb is the scoring function
+
+============================================
