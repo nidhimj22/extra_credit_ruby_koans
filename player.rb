@@ -42,7 +42,7 @@ class Player
 
     @continuegame = true
     @num_dice = 5
-
+    puts "Rolling all 5 dice..."
     playturn
 
     if @continuegame
